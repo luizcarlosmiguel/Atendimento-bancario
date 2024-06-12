@@ -186,6 +186,3 @@ public class systembank {
         } while (numeroAtendimento != 4);
     }
 }
-
-
-//              SYSTEM CLEAR PARA JAVA
