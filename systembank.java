@@ -1,6 +1,5 @@
 // SISTEMA DE AUTOATENDIMENTO TOTTEN BANCÁRIO EM JAVA
 
-import java.io.IOException;
 import java.util.Scanner;
 
 class atendimento{
